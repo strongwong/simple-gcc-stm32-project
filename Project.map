@@ -1,0 +1,1459 @@
+Archive member included to satisfy reference by file (symbol)
+
+e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o)
+                              e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (exit)
+e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+                              e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
+                              e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (__libc_init_array)
+e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memset.o)
+                              e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (memset)
+e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a(_exit.o)
+                              e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o) (_exit)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+ .data          0x00000000        0x0 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+ .bss           0x00000000        0x0 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+ .data          0x00000000        0x4 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+ .text          0x00000000       0x74 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .data          0x00000000        0x0 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .bss           0x00000000        0x0 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.extab     0x00000000        0x0 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.exidx     0x00000000        0x8 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .data          0x00000000        0x0 bin/main.o
+ .bss           0x00000000        0x0 bin/main.o
+ .text          0x00000000       0x54 bin/led.o
+ .data          0x00000000        0x0 bin/led.o
+ .bss           0x00000000        0x0 bin/led.o
+ .debug_info    0x00000000      0x227 bin/led.o
+ .debug_abbrev  0x00000000      0x106 bin/led.o
+ .debug_aranges
+                0x00000000       0x20 bin/led.o
+ .debug_line    0x00000000      0x15f bin/led.o
+ .debug_str     0x00000000      0x2e9 bin/led.o
+ .comment       0x00000000       0x80 bin/led.o
+ .debug_frame   0x00000000       0x34 bin/led.o
+ .ARM.attributes
+                0x00000000       0x33 bin/led.o
+ .data          0x00000000        0x0 bin/delay.o
+ .text          0x00000000       0x10 bin/sys.o
+ .data          0x00000000        0x0 bin/sys.o
+ .bss           0x00000000        0x0 bin/sys.o
+ .debug_info    0x00000000       0xc5 bin/sys.o
+ .debug_abbrev  0x00000000       0x78 bin/sys.o
+ .debug_aranges
+                0x00000000       0x20 bin/sys.o
+ .debug_line    0x00000000      0x11e bin/sys.o
+ .debug_str     0x00000000      0x19e bin/sys.o
+ .comment       0x00000000       0x80 bin/sys.o
+ .debug_frame   0x00000000       0x2c bin/sys.o
+ .ARM.attributes
+                0x00000000       0x33 bin/sys.o
+ .data          0x00000000        0x0 bin/CoIDE_startup.o
+ .bss           0x00000000        0x0 bin/CoIDE_startup.o
+ .bss           0x00000000        0x0 bin/system_stm32f10x.o
+ .data          0x00000000        0x0 bin/misc.o
+ .bss           0x00000000        0x0 bin/misc.o
+ .text          0x00000000      0xa00 bin/stm32f10x_adc.o
+ .data          0x00000000        0x0 bin/stm32f10x_adc.o
+ .bss           0x00000000        0x0 bin/stm32f10x_adc.o
+ .debug_info    0x00000000      0xb82 bin/stm32f10x_adc.o
+ .debug_abbrev  0x00000000      0x1ad bin/stm32f10x_adc.o
+ .debug_aranges
+                0x00000000       0x20 bin/stm32f10x_adc.o
+ .debug_line    0x00000000      0x2d7 bin/stm32f10x_adc.o
+ .debug_str     0x00000000      0x728 bin/stm32f10x_adc.o
+ .comment       0x00000000       0x80 bin/stm32f10x_adc.o
+ .debug_frame   0x00000000      0x5a4 bin/stm32f10x_adc.o
+ .ARM.attributes
+                0x00000000       0x33 bin/stm32f10x_adc.o
+ .text          0x00000000      0x1c0 bin/stm32f10x_bkp.o
+ .data          0x00000000        0x0 bin/stm32f10x_bkp.o
+ .bss           0x00000000        0x0 bin/stm32f10x_bkp.o
+ .debug_info    0x00000000      0x7af bin/stm32f10x_bkp.o
+ .debug_abbrev  0x00000000      0x17a bin/stm32f10x_bkp.o
+ .debug_aranges
+                0x00000000       0x20 bin/stm32f10x_bkp.o
+ .debug_line    0x00000000      0x183 bin/stm32f10x_bkp.o
+ .debug_str     0x00000000      0x5e2 bin/stm32f10x_bkp.o
+ .comment       0x00000000       0x80 bin/stm32f10x_bkp.o
+ .debug_frame   0x00000000      0x1c4 bin/stm32f10x_bkp.o
+ .ARM.attributes
+                0x00000000       0x33 bin/stm32f10x_bkp.o
+ .text          0x00000000      0xfa8 bin/stm32f10x_can.o
+ .data          0x00000000        0x0 bin/stm32f10x_can.o
+ .bss           0x00000000        0x0 bin/stm32f10x_can.o
+ .debug_info    0x00000000      0xbaa bin/stm32f10x_can.o
+ .debug_abbrev  0x00000000      0x208 bin/stm32f10x_can.o
+ .debug_aranges
+                0x00000000       0x20 bin/stm32f10x_can.o
+ .debug_line    0x00000000      0x3ab bin/stm32f10x_can.o
+ .debug_str     0x00000000      0x75b bin/stm32f10x_can.o
+ .comment       0x00000000       0x80 bin/stm32f10x_can.o
+ .debug_frame   0x00000000      0x3f4 bin/stm32f10x_can.o
+ .ARM.attributes
+                0x00000000       0x33 bin/stm32f10x_can.o
+ .text          0x00000000      0x28c bin/stm32f10x_cec.o
+ .data          0x00000000        0x0 bin/stm32f10x_cec.o
+ .bss           0x00000000        0x0 bin/stm32f10x_cec.o
+ .debug_info    0x00000000      0x42e bin/stm32f10x_cec.o
+ .debug_abbrev  0x00000000      0x1c5 bin/stm32f10x_cec.o
+ .debug_aranges
+                0x00000000       0x20 bin/stm32f10x_cec.o
+ .debug_line    0x00000000      0x1d0 bin/stm32f10x_cec.o
+ .debug_str     0x00000000      0x3a3 bin/stm32f10x_cec.o
+ .comment       0x00000000       0x80 bin/stm32f10x_cec.o
+ .debug_frame   0x00000000      0x224 bin/stm32f10x_cec.o
+ .ARM.attributes
+                0x00000000       0x33 bin/stm32f10x_cec.o
+ .text          0x00000000       0xc8 bin/stm32f10x_crc.o
+ .data          0x00000000        0x0 bin/stm32f10x_crc.o
+ .bss           0x00000000        0x0 bin/stm32f10x_crc.o
+ .debug_info    0x00000000      0x210 bin/stm32f10x_crc.o
+ .debug_abbrev  0x00000000      0x127 bin/stm32f10x_crc.o
+ .debug_aranges
+                0x00000000       0x20 bin/stm32f10x_crc.o
+ .debug_line    0x00000000      0x16a bin/stm32f10x_crc.o
+ .debug_str     0x00000000      0x268 bin/stm32f10x_crc.o
+ .comment       0x00000000       0x80 bin/stm32f10x_crc.o
+ .debug_frame   0x00000000       0xe8 bin/stm32f10x_crc.o
+ .ARM.attributes
+                0x00000000       0x33 bin/stm32f10x_crc.o
+ .text          0x00000000      0x300 bin/stm32f10x_dac.o
+ .data          0x00000000        0x0 bin/stm32f10x_dac.o
+ .bss           0x00000000        0x0 bin/stm32f10x_dac.o
+ .debug_info    0x00000000      0x4bd bin/stm32f10x_dac.o
+ .debug_abbrev  0x00000000      0x18a bin/stm32f10x_dac.o
+ .debug_aranges
+                0x00000000       0x20 bin/stm32f10x_dac.o
+ .debug_line    0x00000000      0x1ce bin/stm32f10x_dac.o
+ .debug_str     0x00000000      0x3dc bin/stm32f10x_dac.o
+ .comment       0x00000000       0x80 bin/stm32f10x_dac.o
+ .debug_frame   0x00000000      0x1e4 bin/stm32f10x_dac.o
+ .ARM.attributes
+                0x00000000       0x33 bin/stm32f10x_dac.o
+ .text          0x00000000       0x6c bin/stm32f10x_dbgmcu.o
+ .data          0x00000000        0x0 bin/stm32f10x_dbgmcu.o
+ .bss           0x00000000        0x0 bin/stm32f10x_dbgmcu.o
+ .debug_info    0x00000000      0x16b bin/stm32f10x_dbgmcu.o
+ .debug_abbrev  0x00000000       0xf5 bin/stm32f10x_dbgmcu.o
+ .debug_aranges
+                0x00000000       0x20 bin/stm32f10x_dbgmcu.o
+ .debug_line    0x00000000      0x153 bin/stm32f10x_dbgmcu.o
+ .debug_str     0x00000000      0x21f bin/stm32f10x_dbgmcu.o
+ .comment       0x00000000       0x80 bin/stm32f10x_dbgmcu.o
+ .debug_frame   0x00000000       0x78 bin/stm32f10x_dbgmcu.o
+ .ARM.attributes
+                0x00000000       0x33 bin/stm32f10x_dbgmcu.o
+ .text          0x00000000      0x3f8 bin/stm32f10x_dma.o
+ .data          0x00000000        0x0 bin/stm32f10x_dma.o
+ .bss           0x00000000        0x0 bin/stm32f10x_dma.o
+ .debug_info    0x00000000      0x481 bin/stm32f10x_dma.o
+ .debug_abbrev  0x00000000      0x184 bin/stm32f10x_dma.o
+ .debug_aranges
+                0x00000000       0x20 bin/stm32f10x_dma.o
+ .debug_line    0x00000000      0x22e bin/stm32f10x_dma.o
+ .debug_str     0x00000000      0x3e4 bin/stm32f10x_dma.o
+ .comment       0x00000000       0x80 bin/stm32f10x_dma.o
+ .debug_frame   0x00000000      0x1c8 bin/stm32f10x_dma.o
+ .ARM.attributes
+                0x00000000       0x33 bin/stm32f10x_dma.o
+ .text          0x00000000      0x218 bin/stm32f10x_exti.o
+ .data          0x00000000        0x0 bin/stm32f10x_exti.o
+ .bss           0x00000000        0x0 bin/stm32f10x_exti.o
+ .debug_info    0x00000000      0x35d bin/stm32f10x_exti.o
+ .debug_abbrev  0x00000000      0x16c bin/stm32f10x_exti.o
+ .debug_aranges
+                0x00000000       0x20 bin/stm32f10x_exti.o
+ .debug_line    0x00000000      0x1c1 bin/stm32f10x_exti.o
+ .debug_str     0x00000000      0x376 bin/stm32f10x_exti.o
+ .comment       0x00000000       0x80 bin/stm32f10x_exti.o
+ .debug_frame   0x00000000      0x148 bin/stm32f10x_exti.o
+ .ARM.attributes
+                0x00000000       0x33 bin/stm32f10x_exti.o
+ .text          0x00000000      0x954 bin/stm32f10x_flash.o
+ .data          0x00000000        0x0 bin/stm32f10x_flash.o
+ .bss           0x00000000        0x0 bin/stm32f10x_flash.o
+ .debug_info    0x00000000      0x7c4 bin/stm32f10x_flash.o
+ .debug_abbrev  0x00000000      0x1a4 bin/stm32f10x_flash.o
+ .debug_aranges
+                0x00000000       0x20 bin/stm32f10x_flash.o
+ .debug_line    0x00000000      0x2e4 bin/stm32f10x_flash.o
+ .debug_str     0x00000000      0x615 bin/stm32f10x_flash.o
+ .comment       0x00000000       0x80 bin/stm32f10x_flash.o
+ .debug_frame   0x00000000      0x410 bin/stm32f10x_flash.o
+ .ARM.attributes
+                0x00000000       0x33 bin/stm32f10x_flash.o
+ .text          0x00000000      0x950 bin/stm32f10x_fsmc.o
+ .data          0x00000000        0x0 bin/stm32f10x_fsmc.o
+ .bss           0x00000000        0x0 bin/stm32f10x_fsmc.o
+ .debug_info    0x00000000      0x902 bin/stm32f10x_fsmc.o
+ .debug_abbrev  0x00000000      0x19f bin/stm32f10x_fsmc.o
+ .debug_aranges
+                0x00000000       0x20 bin/stm32f10x_fsmc.o
+ .debug_line    0x00000000      0x326 bin/stm32f10x_fsmc.o
+ .debug_str     0x00000000      0x7a7 bin/stm32f10x_fsmc.o
+ .comment       0x00000000       0x80 bin/stm32f10x_fsmc.o
+ .debug_frame   0x00000000      0x300 bin/stm32f10x_fsmc.o
+ .ARM.attributes
+                0x00000000       0x33 bin/stm32f10x_fsmc.o
+ .data          0x00000000        0x0 bin/stm32f10x_gpio.o
+ .bss           0x00000000        0x0 bin/stm32f10x_gpio.o
+ .text          0x00000000      0x92c bin/stm32f10x_i2c.o
+ .data          0x00000000        0x0 bin/stm32f10x_i2c.o
+ .bss           0x00000000        0x0 bin/stm32f10x_i2c.o
+ .debug_info    0x00000000      0xb13 bin/stm32f10x_i2c.o
+ .debug_abbrev  0x00000000      0x193 bin/stm32f10x_i2c.o
+ .debug_aranges
+                0x00000000       0x20 bin/stm32f10x_i2c.o
+ .debug_line    0x00000000      0x2b6 bin/stm32f10x_i2c.o
+ .debug_str     0x00000000      0x693 bin/stm32f10x_i2c.o
+ .comment       0x00000000       0x80 bin/stm32f10x_i2c.o
+ .debug_frame   0x00000000      0x530 bin/stm32f10x_i2c.o
+ .ARM.attributes
+                0x00000000       0x33 bin/stm32f10x_i2c.o
+ .text          0x00000000       0xc4 bin/stm32f10x_iwdg.o
+ .data          0x00000000        0x0 bin/stm32f10x_iwdg.o
+ .bss           0x00000000        0x0 bin/stm32f10x_iwdg.o
+ .debug_info    0x00000000      0x213 bin/stm32f10x_iwdg.o
+ .debug_abbrev  0x00000000      0x130 bin/stm32f10x_iwdg.o
+ .debug_aranges
+                0x00000000       0x20 bin/stm32f10x_iwdg.o
+ .debug_line    0x00000000      0x161 bin/stm32f10x_iwdg.o
+ .debug_str     0x00000000      0x289 bin/stm32f10x_iwdg.o
+ .comment       0x00000000       0x80 bin/stm32f10x_iwdg.o
+ .debug_frame   0x00000000       0xf0 bin/stm32f10x_iwdg.o
+ .ARM.attributes
+                0x00000000       0x33 bin/stm32f10x_iwdg.o
+ .text          0x00000000      0x1ac bin/stm32f10x_pwr.o
+ .data          0x00000000        0x0 bin/stm32f10x_pwr.o
+ .bss           0x00000000        0x0 bin/stm32f10x_pwr.o
+ .debug_info    0x00000000      0x4a9 bin/stm32f10x_pwr.o
+ .debug_abbrev  0x00000000      0x196 bin/stm32f10x_pwr.o
+ .debug_aranges
+                0x00000000       0x20 bin/stm32f10x_pwr.o
+ .debug_line    0x00000000      0x1a6 bin/stm32f10x_pwr.o
+ .debug_str     0x00000000      0x34f bin/stm32f10x_pwr.o
+ .comment       0x00000000       0x80 bin/stm32f10x_pwr.o
+ .debug_frame   0x00000000      0x164 bin/stm32f10x_pwr.o
+ .ARM.attributes
+                0x00000000       0x33 bin/stm32f10x_pwr.o
+ .bss           0x00000000        0x0 bin/stm32f10x_rcc.o
+ .text          0x00000000      0x2b4 bin/stm32f10x_rtc.o
+ .data          0x00000000        0x0 bin/stm32f10x_rtc.o
+ .bss           0x00000000        0x0 bin/stm32f10x_rtc.o
+ .debug_info    0x00000000      0x442 bin/stm32f10x_rtc.o
+ .debug_abbrev  0x00000000      0x1a2 bin/stm32f10x_rtc.o
+ .debug_aranges
+                0x00000000       0x20 bin/stm32f10x_rtc.o
+ .debug_line    0x00000000      0x1a8 bin/stm32f10x_rtc.o
+ .debug_str     0x00000000      0x3cf bin/stm32f10x_rtc.o
+ .comment       0x00000000       0x80 bin/stm32f10x_rtc.o
+ .debug_frame   0x00000000      0x214 bin/stm32f10x_rtc.o
+ .ARM.attributes
+                0x00000000       0x33 bin/stm32f10x_rtc.o
+ .text          0x00000000      0x504 bin/stm32f10x_sdio.o
+ .data          0x00000000        0x0 bin/stm32f10x_sdio.o
+ .bss           0x00000000        0x0 bin/stm32f10x_sdio.o
+ .debug_info    0x00000000      0x7fd bin/stm32f10x_sdio.o
+ .debug_abbrev  0x00000000      0x1c6 bin/stm32f10x_sdio.o
+ .debug_aranges
+                0x00000000       0x20 bin/stm32f10x_sdio.o
+ .debug_line    0x00000000      0x233 bin/stm32f10x_sdio.o
+ .debug_str     0x00000000      0x65d bin/stm32f10x_sdio.o
+ .comment       0x00000000       0x80 bin/stm32f10x_sdio.o
+ .debug_frame   0x00000000      0x490 bin/stm32f10x_sdio.o
+ .ARM.attributes
+                0x00000000       0x33 bin/stm32f10x_sdio.o
+ .text          0x00000000      0x6d0 bin/stm32f10x_spi.o
+ .data          0x00000000        0x0 bin/stm32f10x_spi.o
+ .bss           0x00000000        0x0 bin/stm32f10x_spi.o
+ .debug_info    0x00000000      0x901 bin/stm32f10x_spi.o
+ .debug_abbrev  0x00000000      0x1ad bin/stm32f10x_spi.o
+ .debug_aranges
+                0x00000000       0x20 bin/stm32f10x_spi.o
+ .debug_line    0x00000000      0x27d bin/stm32f10x_spi.o
+ .debug_str     0x00000000      0x62a bin/stm32f10x_spi.o
+ .comment       0x00000000       0x80 bin/stm32f10x_spi.o
+ .debug_frame   0x00000000      0x3a0 bin/stm32f10x_spi.o
+ .ARM.attributes
+                0x00000000       0x33 bin/stm32f10x_spi.o
+ .text          0x00000000     0x1d90 bin/stm32f10x_tim.o
+ .data          0x00000000        0x0 bin/stm32f10x_tim.o
+ .bss           0x00000000        0x0 bin/stm32f10x_tim.o
+ .debug_info    0x00000000     0x1c66 bin/stm32f10x_tim.o
+ .debug_abbrev  0x00000000      0x1c5 bin/stm32f10x_tim.o
+ .debug_aranges
+                0x00000000       0x20 bin/stm32f10x_tim.o
+ .debug_line    0x00000000      0x62b bin/stm32f10x_tim.o
+ .debug_str     0x00000000      0xe0a bin/stm32f10x_tim.o
+ .comment       0x00000000       0x80 bin/stm32f10x_tim.o
+ .debug_frame   0x00000000      0xe2c bin/stm32f10x_tim.o
+ .ARM.attributes
+                0x00000000       0x33 bin/stm32f10x_tim.o
+ .text          0x00000000      0x8dc bin/stm32f10x_usart.o
+ .data          0x00000000        0x0 bin/stm32f10x_usart.o
+ .bss           0x00000000        0x0 bin/stm32f10x_usart.o
+ .debug_info    0x00000000      0x9f6 bin/stm32f10x_usart.o
+ .debug_abbrev  0x00000000      0x191 bin/stm32f10x_usart.o
+ .debug_aranges
+                0x00000000       0x20 bin/stm32f10x_usart.o
+ .debug_line    0x00000000      0x2bc bin/stm32f10x_usart.o
+ .debug_str     0x00000000      0x6bd bin/stm32f10x_usart.o
+ .comment       0x00000000       0x80 bin/stm32f10x_usart.o
+ .debug_frame   0x00000000      0x490 bin/stm32f10x_usart.o
+ .ARM.attributes
+                0x00000000       0x33 bin/stm32f10x_usart.o
+ .text          0x00000000      0x118 bin/stm32f10x_wwdg.o
+ .data          0x00000000        0x0 bin/stm32f10x_wwdg.o
+ .bss           0x00000000        0x0 bin/stm32f10x_wwdg.o
+ .debug_info    0x00000000      0x240 bin/stm32f10x_wwdg.o
+ .debug_abbrev  0x00000000      0x12e bin/stm32f10x_wwdg.o
+ .debug_aranges
+                0x00000000       0x20 bin/stm32f10x_wwdg.o
+ .debug_line    0x00000000      0x16a bin/stm32f10x_wwdg.o
+ .debug_str     0x00000000      0x28a bin/stm32f10x_wwdg.o
+ .comment       0x00000000       0x80 bin/stm32f10x_wwdg.o
+ .debug_frame   0x00000000      0x12c bin/stm32f10x_wwdg.o
+ .ARM.attributes
+                0x00000000       0x33 bin/stm32f10x_wwdg.o
+ .data          0x00000000        0x0 bin/stm32f10x_it.o
+ .bss           0x00000000        0x0 bin/stm32f10x_it.o
+ .text          0x00000000        0x0 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x28 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2d e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000       0x60 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x2d e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x00000000       0x48 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
+ .debug_frame   0x00000000       0x2c e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000       0x2d e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memset.o)
+ .text.memset   0x00000000       0x10 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x20 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x2d e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x0 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a(_exit.o)
+ .text._exit    0x00000000        0x4 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a(_exit.o)
+ .debug_frame   0x00000000       0x20 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000000       0x2d e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a(_exit.o)
+ .text          0x00000000        0x0 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+ .data          0x00000000        0x0 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+ .bss           0x00000000        0x0 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+ .eh_frame      0x00000000        0x4 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+ .ARM.attributes
+                0x00000000       0x2d e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+ .text          0x00000000        0x0 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+ .data          0x00000000        0x0 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+ .bss           0x00000000        0x0 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00080000         xr
+RAM              0x20000000         0x00010000         xrw
+MEMORY_B1        0x60000000         0x00000000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+LOAD e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+LOAD e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+LOAD bin/main.o
+LOAD bin/led.o
+LOAD bin/delay.o
+LOAD bin/sys.o
+LOAD bin/CoIDE_startup.o
+LOAD bin/system_stm32f10x.o
+LOAD bin/misc.o
+LOAD bin/stm32f10x_adc.o
+LOAD bin/stm32f10x_bkp.o
+LOAD bin/stm32f10x_can.o
+LOAD bin/stm32f10x_cec.o
+LOAD bin/stm32f10x_crc.o
+LOAD bin/stm32f10x_dac.o
+LOAD bin/stm32f10x_dbgmcu.o
+LOAD bin/stm32f10x_dma.o
+LOAD bin/stm32f10x_exti.o
+LOAD bin/stm32f10x_flash.o
+LOAD bin/stm32f10x_fsmc.o
+LOAD bin/stm32f10x_gpio.o
+LOAD bin/stm32f10x_i2c.o
+LOAD bin/stm32f10x_iwdg.o
+LOAD bin/stm32f10x_pwr.o
+LOAD bin/stm32f10x_rcc.o
+LOAD bin/stm32f10x_rtc.o
+LOAD bin/stm32f10x_sdio.o
+LOAD bin/stm32f10x_spi.o
+LOAD bin/stm32f10x_tim.o
+LOAD bin/stm32f10x_usart.o
+LOAD bin/stm32f10x_wwdg.o
+LOAD bin/stm32f10x_it.o
+START GROUP
+LOAD e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a
+LOAD e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libm.a
+END GROUP
+                0x00000080                malloc_getpagesize_P = 0x80
+START GROUP
+LOAD e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a
+LOAD e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a
+END GROUP
+START GROUP
+LOAD e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a
+LOAD e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a
+LOAD e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a
+END GROUP
+START GROUP
+LOAD e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a
+LOAD e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a
+LOAD e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a
+END GROUP
+LOAD e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+LOAD e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+                0x20010000                _estack = 0x20010000
+                0x00000000                _Min_Heap_Size = 0x0
+                0x00000200                _Min_Stack_Size = 0x200
+
+.isr_vector     0x08000000      0x134
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x134 bin/CoIDE_startup.o
+                0x08000000                g_pfnVectors
+                0x08000134                . = ALIGN (0x4)
+
+.text           0x08000134     0x1434
+                0x08000134                . = ALIGN (0x4)
+ *(.text)
+ .text          0x08000134       0x40 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+ .text          0x08000174       0x80 bin/main.o
+                0x08000174                main
+ .text          0x080001f4      0x120 bin/delay.o
+                0x080001f4                delay_init
+                0x08000240                delay_us
+                0x080002a8                delay_ms
+ .text          0x08000314       0x68 bin/CoIDE_startup.o
+                0x08000314                Default_Reset_Handler
+                0x08000314                Reset_Handler
+                0x0800036c                TIM8_CC_IRQHandler
+                0x0800036c                TIM1_CC_IRQHandler
+                0x0800036c                TIM6_IRQHandler
+                0x0800036c                PVD_IRQHandler
+                0x0800036c                SDIO_IRQHandler
+                0x0800036c                EXTI3_IRQHandler
+                0x0800036c                EXTI0_IRQHandler
+                0x0800036c                I2C2_EV_IRQHandler
+                0x0800036c                TIM8_TRG_COM_IRQHandler
+                0x0800036c                SPI1_IRQHandler
+                0x0800036c                TAMPER_IRQHandler
+                0x0800036c                TIM8_UP_IRQHandler
+                0x0800036c                DMA2_Channel2_IRQHandler
+                0x0800036c                DMA1_Channel4_IRQHandler
+                0x0800036c                USART3_IRQHandler
+                0x0800036c                RTC_IRQHandler
+                0x0800036c                DMA1_Channel7_IRQHandler
+                0x0800036c                ADC1_2_IRQHandler
+                0x0800036c                CAN1_RX1_IRQHandler
+                0x0800036c                UART5_IRQHandler
+                0x0800036c                ADC3_IRQHandler
+                0x0800036c                TIM4_IRQHandler
+                0x0800036c                DMA2_Channel1_IRQHandler
+                0x0800036c                I2C1_EV_IRQHandler
+                0x0800036c                DMA1_Channel6_IRQHandler
+                0x0800036c                UART4_IRQHandler
+                0x0800036c                TIM3_IRQHandler
+                0x0800036c                RCC_IRQHandler
+                0x0800036c                TIM1_TRG_COM_IRQHandler
+                0x0800036c                DMA1_Channel1_IRQHandler
+                0x0800036c                EXTI15_10_IRQHandler
+                0x0800036c                EXTI2_IRQHandler
+                0x0800036c                TIM7_IRQHandler
+                0x0800036c                TIM5_IRQHandler
+                0x0800036c                EXTI9_5_IRQHandler
+                0x0800036c                SPI2_IRQHandler
+                0x0800036c                DMA1_Channel5_IRQHandler
+                0x0800036c                EXTI4_IRQHandler
+                0x0800036c                USB_LP_CAN1_RX0_IRQHandler
+                0x0800036c                USB_HP_CAN1_TX_IRQHandler
+                0x0800036c                DMA1_Channel3_IRQHandler
+                0x0800036c                FSMC_IRQHandler
+                0x0800036c                TIM1_UP_IRQHandler
+                0x0800036c                WWDG_IRQHandler
+                0x0800036c                TIM2_IRQHandler
+                0x0800036c                TIM1_BRK_IRQHandler
+                0x0800036c                EXTI1_IRQHandler
+                0x0800036c                RTCAlarm_IRQHandler
+                0x0800036c                DMA2_Channel4_5_IRQHandler
+                0x0800036c                USART2_IRQHandler
+                0x0800036c                I2C2_ER_IRQHandler
+                0x0800036c                DMA1_Channel2_IRQHandler
+                0x0800036c                TIM8_BRK_IRQHandler
+                0x0800036c                CAN1_SCE_IRQHandler
+                0x0800036c                FLASH_IRQHandler
+                0x0800036c                USART1_IRQHandler
+                0x0800036c                SPI3_IRQHandler
+                0x0800036c                I2C1_ER_IRQHandler
+                0x0800036c                USBWakeUp_IRQHandler
+                0x0800036c                DMA2_Channel3_IRQHandler
+ .text          0x0800037c      0x24c bin/system_stm32f10x.o
+                0x0800037c                SystemInit
+                0x080003e4                SystemCoreClockUpdate
+ .text          0x080005c8      0x18c bin/misc.o
+                0x080005c8                NVIC_PriorityGroupConfig
+                0x080005ec                NVIC_Init
+                0x080006b0                NVIC_SetVectorTable
+                0x080006dc                NVIC_SystemLPConfig
+                0x0800071c                SysTick_CLKSourceConfig
+ .text          0x08000754      0x5d8 bin/stm32f10x_gpio.o
+                0x08000754                GPIO_DeInit
+                0x08000838                GPIO_AFIODeInit
+                0x08000850                GPIO_Init
+                0x080009c8                GPIO_StructInit
+                0x080009ee                GPIO_ReadInputDataBit
+                0x08000a20                GPIO_ReadInputData
+                0x08000a38                GPIO_ReadOutputDataBit
+                0x08000a6a                GPIO_ReadOutputData
+                0x08000a82                GPIO_SetBits
+                0x08000a9e                GPIO_ResetBits
+                0x08000aba                GPIO_WriteBit
+                0x08000ae8                GPIO_Write
+                0x08000b04                GPIO_PinLockConfig
+                0x08000b46                GPIO_EventOutputConfig
+                0x08000b90                GPIO_EventOutputCmd
+                0x08000bb0                GPIO_PinRemapConfig
+                0x08000c90                GPIO_EXTILineConfig
+                0x08000d10                GPIO_ETH_MediaInterfaceConfig
+ .text          0x08000d2c      0x7d0 bin/stm32f10x_rcc.o
+                0x08000d2c                RCC_DeInit
+                0x08000d88                RCC_HSEConfig
+                0x08000de4                RCC_WaitForHSEStartUp
+                0x08000e34                RCC_AdjustHSICalibrationValue
+                0x08000e70                RCC_HSICmd
+                0x08000e90                RCC_PLLConfig
+                0x08000ecc                RCC_PLLCmd
+                0x08000eec                RCC_SYSCLKConfig
+                0x08000f24                RCC_GetSYSCLKSource
+                0x08000f40                RCC_HCLKConfig
+                0x08000f78                RCC_PCLK1Config
+                0x08000fb0                RCC_PCLK2Config
+                0x08000fe8                RCC_ITConfig
+                0x08001034                RCC_USBCLKConfig
+                0x08001050                RCC_ADCCLKConfig
+                0x08001088                RCC_LSEConfig
+                0x080010c8                RCC_LSICmd
+                0x080010e8                RCC_RTCCLKConfig
+                0x0800110c                RCC_RTCCLKCmd
+                0x0800112c                RCC_GetClocksFreq
+                0x0800128c                RCC_AHBPeriphClockCmd
+                0x080012c8                RCC_APB2PeriphClockCmd
+                0x08001304                RCC_APB1PeriphClockCmd
+                0x08001340                RCC_APB2PeriphResetCmd
+                0x0800137c                RCC_APB1PeriphResetCmd
+                0x080013b8                RCC_BackupResetCmd
+                0x080013d8                RCC_ClockSecuritySystemCmd
+                0x080013f8                RCC_MCOConfig
+                0x08001418                RCC_GetFlagStatus
+                0x0800148c                RCC_ClearFlag
+                0x080014a8                RCC_GetITStatus
+                0x080014dc                RCC_ClearITPendingBit
+ .text          0x080014fc       0x54 bin/stm32f10x_it.o
+                0x080014fc                NMI_Handler
+                0x08001508                HardFault_Handler
+                0x0800150e                MemManage_Handler
+                0x08001514                BusFault_Handler
+                0x0800151a                UsageFault_Handler
+                0x08001520                SVC_Handler
+                0x0800152c                DebugMon_Handler
+                0x08001538                PendSV_Handler
+                0x08001544                SysTick_Handler
+ *(.text*)
+ *(.glue_7)
+ .glue_7        0x08001550        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x08001550        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x08001550        0x0 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+ *(.init)
+ .init          0x08001550        0x4 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+                0x08001550                _init
+ .init          0x08001554        0x8 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+ *(.fini)
+ .fini          0x0800155c        0x4 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+                0x0800155c                _fini
+ .fini          0x08001560        0x8 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+                0x08001568                . = ALIGN (0x4)
+                0x08001568                _etext = .
+
+.vfp11_veneer   0x08001568        0x0
+ .vfp11_veneer  0x08001568        0x0 linker stubs
+
+.v4_bx          0x08001568        0x0
+ .v4_bx         0x08001568        0x0 linker stubs
+
+.iplt           0x08001568        0x0
+ .iplt          0x08001568        0x0 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+
+.rel.dyn        0x08001568        0x0
+ .rel.iplt      0x08001568        0x0 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+
+.rodata         0x08001568        0x0
+                0x08001568                . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+                0x08001568                . = ALIGN (0x4)
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x08001568        0x0
+                0x08001568                __exidx_start = .
+ *(.ARM.exidx*)
+                0x08001568                __exidx_end = .
+
+.preinit_array  0x08001568        0x0
+                0x08001568                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x08001568                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x08001568        0x4
+                0x08001568                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x08001568        0x4 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+                0x0800156c                PROVIDE (__init_array_end = .)
+
+.fini_array     0x0800156c        0x4
+                [!provide]                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x0800156c        0x4 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+                [!provide]                PROVIDE (__fini_array_end = .)
+                0x08001570                _sidata = LOADADDR (.data)
+
+.data           0x20000000       0x28 load address 0x08001570
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ .data          0x20000000       0x14 bin/system_stm32f10x.o
+                0x20000000                SystemCoreClock
+                0x20000004                AHBPrescTable
+ .data          0x20000014       0x14 bin/stm32f10x_rcc.o
+ *(.data*)
+                0x20000028                . = ALIGN (0x4)
+                0x20000028                _edata = .
+
+.igot.plt       0x20000028        0x0 load address 0x08001598
+ .igot.plt      0x20000028        0x0 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+
+.co_stack       0x20000028      0x400 load address 0x08001598
+ .co_stack      0x20000028      0x400 bin/CoIDE_startup.o
+                0x20000028                pulStack
+                0x20000428                . = ALIGN (0x4)
+
+.bss            0x20000428       0x20 load address 0x08001998
+                0x20000428                _sbss = .
+                0x20000428                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x20000428       0x1c e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+ .bss           0x20000444        0x4 bin/delay.o
+ *(.bss*)
+ *(COMMON)
+                0x20000448                . = ALIGN (0x4)
+                0x20000448                _ebss = .
+                0x20000448                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x20000448      0x200 load address 0x08001998
+                0x20000448                . = ALIGN (0x4)
+                [!provide]                PROVIDE (end = .)
+                [!provide]                PROVIDE (_end = .)
+                0x20000448                . = (. + _Min_Heap_Size)
+                0x20000648                . = (. + _Min_Stack_Size)
+ *fill*         0x20000448      0x200 
+                0x20000648                . = ALIGN (0x4)
+
+.memory_b1_text
+ *(.mb1text)
+ *(.mb1text*)
+ *(.mb1rodata)
+ *(.mb1rodata*)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x29
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1d e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+ .ARM.attributes
+                0x0000001d       0x2d e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x33 bin/main.o
+ .ARM.attributes
+                0x0000007d       0x33 bin/delay.o
+ .ARM.attributes
+                0x000000b0       0x33 bin/CoIDE_startup.o
+ .ARM.attributes
+                0x000000e3       0x33 bin/system_stm32f10x.o
+ .ARM.attributes
+                0x00000116       0x33 bin/misc.o
+ .ARM.attributes
+                0x00000149       0x33 bin/stm32f10x_gpio.o
+ .ARM.attributes
+                0x0000017c       0x33 bin/stm32f10x_rcc.o
+ .ARM.attributes
+                0x000001af       0x33 bin/stm32f10x_it.o
+ .ARM.attributes
+                0x000001e2       0x1d e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+OUTPUT(bin/LED_project.elf elf32-littlearm)
+
+.debug_info     0x00000000     0x2009
+ .debug_info    0x00000000      0x22b bin/main.o
+ .debug_info    0x0000022b      0x1ee bin/delay.o
+ .debug_info    0x00000419      0x10f bin/CoIDE_startup.o
+ .debug_info    0x00000528      0x4a1 bin/system_stm32f10x.o
+ .debug_info    0x000009c9      0x547 bin/misc.o
+ .debug_info    0x00000f10      0x6fe bin/stm32f10x_gpio.o
+ .debug_info    0x0000160e      0x8ae bin/stm32f10x_rcc.o
+ .debug_info    0x00001ebc      0x14d bin/stm32f10x_it.o
+
+.debug_abbrev   0x00000000      0x9ca
+ .debug_abbrev  0x00000000      0x108 bin/main.o
+ .debug_abbrev  0x00000108       0xfc bin/delay.o
+ .debug_abbrev  0x00000204       0xb8 bin/CoIDE_startup.o
+ .debug_abbrev  0x000002bc      0x170 bin/system_stm32f10x.o
+ .debug_abbrev  0x0000042c      0x174 bin/misc.o
+ .debug_abbrev  0x000005a0      0x1e1 bin/stm32f10x_gpio.o
+ .debug_abbrev  0x00000781      0x1d1 bin/stm32f10x_rcc.o
+ .debug_abbrev  0x00000952       0x78 bin/stm32f10x_it.o
+
+.debug_aranges  0x00000000      0x100
+ .debug_aranges
+                0x00000000       0x20 bin/main.o
+ .debug_aranges
+                0x00000020       0x20 bin/delay.o
+ .debug_aranges
+                0x00000040       0x20 bin/CoIDE_startup.o
+ .debug_aranges
+                0x00000060       0x20 bin/system_stm32f10x.o
+ .debug_aranges
+                0x00000080       0x20 bin/misc.o
+ .debug_aranges
+                0x000000a0       0x20 bin/stm32f10x_gpio.o
+ .debug_aranges
+                0x000000c0       0x20 bin/stm32f10x_rcc.o
+ .debug_aranges
+                0x000000e0       0x20 bin/stm32f10x_it.o
+
+.debug_line     0x00000000      0xccd
+ .debug_line    0x00000000      0x17d bin/main.o
+ .debug_line    0x0000017d      0x167 bin/delay.o
+ .debug_line    0x000002e4       0x5c bin/CoIDE_startup.o
+ .debug_line    0x00000340      0x1ad bin/system_stm32f10x.o
+ .debug_line    0x000004ed      0x187 bin/misc.o
+ .debug_line    0x00000674      0x266 bin/stm32f10x_gpio.o
+ .debug_line    0x000008da      0x2af bin/stm32f10x_rcc.o
+ .debug_line    0x00000b89      0x144 bin/stm32f10x_it.o
+
+.debug_str      0x00000000      0xd56
+ .debug_str     0x00000000      0x294 bin/main.o
+                                0x2e2 (size before relaxing)
+ .debug_str     0x00000294       0x66 bin/delay.o
+                                0x200 (size before relaxing)
+ .debug_str     0x000002fa       0x88 bin/CoIDE_startup.o
+                                0x15e (size before relaxing)
+ .debug_str     0x00000382      0x141 bin/system_stm32f10x.o
+                                0x2fe (size before relaxing)
+ .debug_str     0x000004c3      0x1d1 bin/misc.o
+                                0x3eb (size before relaxing)
+ .debug_str     0x00000694      0x253 bin/stm32f10x_gpio.o
+                                0x546 (size before relaxing)
+ .debug_str     0x000008e7      0x3cb bin/stm32f10x_rcc.o
+                                0x647 (size before relaxing)
+ .debug_str     0x00000cb2       0xa4 bin/stm32f10x_it.o
+                                0x222 (size before relaxing)
+
+.comment        0x00000000       0x7f
+ .comment       0x00000000       0x7f bin/main.o
+                                 0x80 (size before relaxing)
+ .comment       0x0000007f       0x80 bin/delay.o
+ .comment       0x0000007f       0x80 bin/CoIDE_startup.o
+ .comment       0x0000007f       0x80 bin/system_stm32f10x.o
+ .comment       0x0000007f       0x80 bin/misc.o
+ .comment       0x0000007f       0x80 bin/stm32f10x_gpio.o
+ .comment       0x0000007f       0x80 bin/stm32f10x_rcc.o
+ .comment       0x0000007f       0x80 bin/stm32f10x_it.o
+
+.debug_frame    0x00000000      0xb3c
+ .debug_frame   0x00000000       0x30 bin/main.o
+ .debug_frame   0x00000030       0x7c bin/delay.o
+ .debug_frame   0x000000ac       0x4c bin/CoIDE_startup.o
+ .debug_frame   0x000000f8       0x98 bin/system_stm32f10x.o
+ .debug_frame   0x00000190       0xd8 bin/misc.o
+ .debug_frame   0x00000268      0x2d0 bin/stm32f10x_gpio.o
+ .debug_frame   0x00000538      0x4f4 bin/stm32f10x_rcc.o
+ .debug_frame   0x00000a2c      0x110 bin/stm32f10x_it.o
+
+Cross Reference Table
+
+Symbol                                            File
+ADC1_2_IRQHandler                                 bin/CoIDE_startup.o
+ADC3_IRQHandler                                   bin/CoIDE_startup.o
+ADC_AnalogWatchdogCmd                             bin/stm32f10x_adc.o
+ADC_AnalogWatchdogSingleChannelConfig             bin/stm32f10x_adc.o
+ADC_AnalogWatchdogThresholdsConfig                bin/stm32f10x_adc.o
+ADC_AutoInjectedConvCmd                           bin/stm32f10x_adc.o
+ADC_ClearFlag                                     bin/stm32f10x_adc.o
+ADC_ClearITPendingBit                             bin/stm32f10x_adc.o
+ADC_Cmd                                           bin/stm32f10x_adc.o
+ADC_DMACmd                                        bin/stm32f10x_adc.o
+ADC_DeInit                                        bin/stm32f10x_adc.o
+ADC_DiscModeChannelCountConfig                    bin/stm32f10x_adc.o
+ADC_DiscModeCmd                                   bin/stm32f10x_adc.o
+ADC_ExternalTrigConvCmd                           bin/stm32f10x_adc.o
+ADC_ExternalTrigInjectedConvCmd                   bin/stm32f10x_adc.o
+ADC_ExternalTrigInjectedConvConfig                bin/stm32f10x_adc.o
+ADC_GetCalibrationStatus                          bin/stm32f10x_adc.o
+ADC_GetConversionValue                            bin/stm32f10x_adc.o
+ADC_GetDualModeConversionValue                    bin/stm32f10x_adc.o
+ADC_GetFlagStatus                                 bin/stm32f10x_adc.o
+ADC_GetITStatus                                   bin/stm32f10x_adc.o
+ADC_GetInjectedConversionValue                    bin/stm32f10x_adc.o
+ADC_GetResetCalibrationStatus                     bin/stm32f10x_adc.o
+ADC_GetSoftwareStartConvStatus                    bin/stm32f10x_adc.o
+ADC_GetSoftwareStartInjectedConvCmdStatus         bin/stm32f10x_adc.o
+ADC_ITConfig                                      bin/stm32f10x_adc.o
+ADC_Init                                          bin/stm32f10x_adc.o
+ADC_InjectedChannelConfig                         bin/stm32f10x_adc.o
+ADC_InjectedDiscModeCmd                           bin/stm32f10x_adc.o
+ADC_InjectedSequencerLengthConfig                 bin/stm32f10x_adc.o
+ADC_RegularChannelConfig                          bin/stm32f10x_adc.o
+ADC_ResetCalibration                              bin/stm32f10x_adc.o
+ADC_SetInjectedOffset                             bin/stm32f10x_adc.o
+ADC_SoftwareStartConvCmd                          bin/stm32f10x_adc.o
+ADC_SoftwareStartInjectedConvCmd                  bin/stm32f10x_adc.o
+ADC_StartCalibration                              bin/stm32f10x_adc.o
+ADC_StructInit                                    bin/stm32f10x_adc.o
+ADC_TempSensorVrefintCmd                          bin/stm32f10x_adc.o
+AHBPrescTable                                     bin/system_stm32f10x.o
+BKP_ClearFlag                                     bin/stm32f10x_bkp.o
+BKP_ClearITPendingBit                             bin/stm32f10x_bkp.o
+BKP_DeInit                                        bin/stm32f10x_bkp.o
+BKP_GetFlagStatus                                 bin/stm32f10x_bkp.o
+BKP_GetITStatus                                   bin/stm32f10x_bkp.o
+BKP_ITConfig                                      bin/stm32f10x_bkp.o
+BKP_RTCOutputConfig                               bin/stm32f10x_bkp.o
+BKP_ReadBackupRegister                            bin/stm32f10x_bkp.o
+BKP_SetRTCCalibrationValue                        bin/stm32f10x_bkp.o
+BKP_TamperPinCmd                                  bin/stm32f10x_bkp.o
+BKP_TamperPinLevelConfig                          bin/stm32f10x_bkp.o
+BKP_WriteBackupRegister                           bin/stm32f10x_bkp.o
+BusFault_Handler                                  bin/stm32f10x_it.o
+                                                  bin/CoIDE_startup.o
+CAN1_RX1_IRQHandler                               bin/CoIDE_startup.o
+CAN1_SCE_IRQHandler                               bin/CoIDE_startup.o
+CAN_CancelTransmit                                bin/stm32f10x_can.o
+CAN_ClearFlag                                     bin/stm32f10x_can.o
+CAN_ClearITPendingBit                             bin/stm32f10x_can.o
+CAN_DBGFreeze                                     bin/stm32f10x_can.o
+CAN_DeInit                                        bin/stm32f10x_can.o
+CAN_FIFORelease                                   bin/stm32f10x_can.o
+CAN_FilterInit                                    bin/stm32f10x_can.o
+CAN_GetFlagStatus                                 bin/stm32f10x_can.o
+CAN_GetITStatus                                   bin/stm32f10x_can.o
+CAN_GetLSBTransmitErrorCounter                    bin/stm32f10x_can.o
+CAN_GetLastErrorCode                              bin/stm32f10x_can.o
+CAN_GetReceiveErrorCounter                        bin/stm32f10x_can.o
+CAN_ITConfig                                      bin/stm32f10x_can.o
+CAN_Init                                          bin/stm32f10x_can.o
+CAN_MessagePending                                bin/stm32f10x_can.o
+CAN_OperatingModeRequest                          bin/stm32f10x_can.o
+CAN_Receive                                       bin/stm32f10x_can.o
+CAN_SlaveStartBank                                bin/stm32f10x_can.o
+CAN_Sleep                                         bin/stm32f10x_can.o
+CAN_StructInit                                    bin/stm32f10x_can.o
+CAN_TTComModeCmd                                  bin/stm32f10x_can.o
+CAN_Transmit                                      bin/stm32f10x_can.o
+CAN_TransmitStatus                                bin/stm32f10x_can.o
+CAN_WakeUp                                        bin/stm32f10x_can.o
+CEC_ClearFlag                                     bin/stm32f10x_cec.o
+CEC_ClearITPendingBit                             bin/stm32f10x_cec.o
+CEC_Cmd                                           bin/stm32f10x_cec.o
+CEC_DeInit                                        bin/stm32f10x_cec.o
+CEC_EndOfMessageCmd                               bin/stm32f10x_cec.o
+CEC_GetFlagStatus                                 bin/stm32f10x_cec.o
+CEC_GetITStatus                                   bin/stm32f10x_cec.o
+CEC_ITConfig                                      bin/stm32f10x_cec.o
+CEC_Init                                          bin/stm32f10x_cec.o
+CEC_OwnAddressConfig                              bin/stm32f10x_cec.o
+CEC_ReceiveDataByte                               bin/stm32f10x_cec.o
+CEC_SendDataByte                                  bin/stm32f10x_cec.o
+CEC_SetPrescaler                                  bin/stm32f10x_cec.o
+CEC_StartOfMessage                                bin/stm32f10x_cec.o
+CRC_CalcBlockCRC                                  bin/stm32f10x_crc.o
+CRC_CalcCRC                                       bin/stm32f10x_crc.o
+CRC_GetCRC                                        bin/stm32f10x_crc.o
+CRC_GetIDRegister                                 bin/stm32f10x_crc.o
+CRC_ResetDR                                       bin/stm32f10x_crc.o
+CRC_SetIDRegister                                 bin/stm32f10x_crc.o
+DAC_Cmd                                           bin/stm32f10x_dac.o
+DAC_DMACmd                                        bin/stm32f10x_dac.o
+DAC_DeInit                                        bin/stm32f10x_dac.o
+DAC_DualSoftwareTriggerCmd                        bin/stm32f10x_dac.o
+DAC_GetDataOutputValue                            bin/stm32f10x_dac.o
+DAC_Init                                          bin/stm32f10x_dac.o
+DAC_SetChannel1Data                               bin/stm32f10x_dac.o
+DAC_SetChannel2Data                               bin/stm32f10x_dac.o
+DAC_SetDualChannelData                            bin/stm32f10x_dac.o
+DAC_SoftwareTriggerCmd                            bin/stm32f10x_dac.o
+DAC_StructInit                                    bin/stm32f10x_dac.o
+DAC_WaveGenerationCmd                             bin/stm32f10x_dac.o
+DBGMCU_Config                                     bin/stm32f10x_dbgmcu.o
+DBGMCU_GetDEVID                                   bin/stm32f10x_dbgmcu.o
+DBGMCU_GetREVID                                   bin/stm32f10x_dbgmcu.o
+DMA1_Channel1_IRQHandler                          bin/CoIDE_startup.o
+DMA1_Channel2_IRQHandler                          bin/CoIDE_startup.o
+DMA1_Channel3_IRQHandler                          bin/CoIDE_startup.o
+DMA1_Channel4_IRQHandler                          bin/CoIDE_startup.o
+DMA1_Channel5_IRQHandler                          bin/CoIDE_startup.o
+DMA1_Channel6_IRQHandler                          bin/CoIDE_startup.o
+DMA1_Channel7_IRQHandler                          bin/CoIDE_startup.o
+DMA2_Channel1_IRQHandler                          bin/CoIDE_startup.o
+DMA2_Channel2_IRQHandler                          bin/CoIDE_startup.o
+DMA2_Channel3_IRQHandler                          bin/CoIDE_startup.o
+DMA2_Channel4_5_IRQHandler                        bin/CoIDE_startup.o
+DMA_ClearFlag                                     bin/stm32f10x_dma.o
+DMA_ClearITPendingBit                             bin/stm32f10x_dma.o
+DMA_Cmd                                           bin/stm32f10x_dma.o
+DMA_DeInit                                        bin/stm32f10x_dma.o
+DMA_GetCurrDataCounter                            bin/stm32f10x_dma.o
+DMA_GetFlagStatus                                 bin/stm32f10x_dma.o
+DMA_GetITStatus                                   bin/stm32f10x_dma.o
+DMA_ITConfig                                      bin/stm32f10x_dma.o
+DMA_Init                                          bin/stm32f10x_dma.o
+DMA_SetCurrDataCounter                            bin/stm32f10x_dma.o
+DMA_StructInit                                    bin/stm32f10x_dma.o
+DebugMon_Handler                                  bin/stm32f10x_it.o
+                                                  bin/CoIDE_startup.o
+Default_Reset_Handler                             bin/CoIDE_startup.o
+EXTI0_IRQHandler                                  bin/CoIDE_startup.o
+EXTI15_10_IRQHandler                              bin/CoIDE_startup.o
+EXTI1_IRQHandler                                  bin/CoIDE_startup.o
+EXTI2_IRQHandler                                  bin/CoIDE_startup.o
+EXTI3_IRQHandler                                  bin/CoIDE_startup.o
+EXTI4_IRQHandler                                  bin/CoIDE_startup.o
+EXTI9_5_IRQHandler                                bin/CoIDE_startup.o
+EXTI_ClearFlag                                    bin/stm32f10x_exti.o
+EXTI_ClearITPendingBit                            bin/stm32f10x_exti.o
+EXTI_DeInit                                       bin/stm32f10x_exti.o
+EXTI_GenerateSWInterrupt                          bin/stm32f10x_exti.o
+EXTI_GetFlagStatus                                bin/stm32f10x_exti.o
+EXTI_GetITStatus                                  bin/stm32f10x_exti.o
+EXTI_Init                                         bin/stm32f10x_exti.o
+EXTI_StructInit                                   bin/stm32f10x_exti.o
+FLASH_ClearFlag                                   bin/stm32f10x_flash.o
+FLASH_EnableWriteProtection                       bin/stm32f10x_flash.o
+FLASH_EraseAllBank1Pages                          bin/stm32f10x_flash.o
+FLASH_EraseAllPages                               bin/stm32f10x_flash.o
+FLASH_EraseOptionBytes                            bin/stm32f10x_flash.o
+FLASH_ErasePage                                   bin/stm32f10x_flash.o
+FLASH_GetBank1Status                              bin/stm32f10x_flash.o
+FLASH_GetFlagStatus                               bin/stm32f10x_flash.o
+FLASH_GetPrefetchBufferStatus                     bin/stm32f10x_flash.o
+FLASH_GetReadOutProtectionStatus                  bin/stm32f10x_flash.o
+FLASH_GetStatus                                   bin/stm32f10x_flash.o
+FLASH_GetUserOptionByte                           bin/stm32f10x_flash.o
+FLASH_GetWriteProtectionOptionByte                bin/stm32f10x_flash.o
+FLASH_HalfCycleAccessCmd                          bin/stm32f10x_flash.o
+FLASH_IRQHandler                                  bin/CoIDE_startup.o
+FLASH_ITConfig                                    bin/stm32f10x_flash.o
+FLASH_Lock                                        bin/stm32f10x_flash.o
+FLASH_LockBank1                                   bin/stm32f10x_flash.o
+FLASH_PrefetchBufferCmd                           bin/stm32f10x_flash.o
+FLASH_ProgramHalfWord                             bin/stm32f10x_flash.o
+FLASH_ProgramOptionByteData                       bin/stm32f10x_flash.o
+FLASH_ProgramWord                                 bin/stm32f10x_flash.o
+FLASH_ReadOutProtection                           bin/stm32f10x_flash.o
+FLASH_SetLatency                                  bin/stm32f10x_flash.o
+FLASH_Unlock                                      bin/stm32f10x_flash.o
+FLASH_UnlockBank1                                 bin/stm32f10x_flash.o
+FLASH_UserOptionByteConfig                        bin/stm32f10x_flash.o
+FLASH_WaitForLastBank1Operation                   bin/stm32f10x_flash.o
+FLASH_WaitForLastOperation                        bin/stm32f10x_flash.o
+FSMC_ClearFlag                                    bin/stm32f10x_fsmc.o
+FSMC_ClearITPendingBit                            bin/stm32f10x_fsmc.o
+FSMC_GetECC                                       bin/stm32f10x_fsmc.o
+FSMC_GetFlagStatus                                bin/stm32f10x_fsmc.o
+FSMC_GetITStatus                                  bin/stm32f10x_fsmc.o
+FSMC_IRQHandler                                   bin/CoIDE_startup.o
+FSMC_ITConfig                                     bin/stm32f10x_fsmc.o
+FSMC_NANDCmd                                      bin/stm32f10x_fsmc.o
+FSMC_NANDDeInit                                   bin/stm32f10x_fsmc.o
+FSMC_NANDECCCmd                                   bin/stm32f10x_fsmc.o
+FSMC_NANDInit                                     bin/stm32f10x_fsmc.o
+FSMC_NANDStructInit                               bin/stm32f10x_fsmc.o
+FSMC_NORSRAMCmd                                   bin/stm32f10x_fsmc.o
+FSMC_NORSRAMDeInit                                bin/stm32f10x_fsmc.o
+FSMC_NORSRAMInit                                  bin/stm32f10x_fsmc.o
+FSMC_NORSRAMStructInit                            bin/stm32f10x_fsmc.o
+FSMC_PCCARDCmd                                    bin/stm32f10x_fsmc.o
+FSMC_PCCARDDeInit                                 bin/stm32f10x_fsmc.o
+FSMC_PCCARDInit                                   bin/stm32f10x_fsmc.o
+FSMC_PCCARDStructInit                             bin/stm32f10x_fsmc.o
+GPIO_AFIODeInit                                   bin/stm32f10x_gpio.o
+GPIO_DeInit                                       bin/stm32f10x_gpio.o
+GPIO_ETH_MediaInterfaceConfig                     bin/stm32f10x_gpio.o
+GPIO_EXTILineConfig                               bin/stm32f10x_gpio.o
+GPIO_EventOutputCmd                               bin/stm32f10x_gpio.o
+GPIO_EventOutputConfig                            bin/stm32f10x_gpio.o
+GPIO_Init                                         bin/stm32f10x_gpio.o
+                                                  bin/led.o
+                                                  bin/main.o
+GPIO_PinLockConfig                                bin/stm32f10x_gpio.o
+GPIO_PinRemapConfig                               bin/stm32f10x_gpio.o
+GPIO_ReadInputData                                bin/stm32f10x_gpio.o
+GPIO_ReadInputDataBit                             bin/stm32f10x_gpio.o
+GPIO_ReadOutputData                               bin/stm32f10x_gpio.o
+GPIO_ReadOutputDataBit                            bin/stm32f10x_gpio.o
+GPIO_ResetBits                                    bin/stm32f10x_gpio.o
+                                                  bin/main.o
+GPIO_SetBits                                      bin/stm32f10x_gpio.o
+                                                  bin/led.o
+                                                  bin/main.o
+GPIO_StructInit                                   bin/stm32f10x_gpio.o
+GPIO_Write                                        bin/stm32f10x_gpio.o
+GPIO_WriteBit                                     bin/stm32f10x_gpio.o
+HardFault_Handler                                 bin/stm32f10x_it.o
+                                                  bin/CoIDE_startup.o
+I2C1_ER_IRQHandler                                bin/CoIDE_startup.o
+I2C1_EV_IRQHandler                                bin/CoIDE_startup.o
+I2C2_ER_IRQHandler                                bin/CoIDE_startup.o
+I2C2_EV_IRQHandler                                bin/CoIDE_startup.o
+I2C_ARPCmd                                        bin/stm32f10x_i2c.o
+I2C_AcknowledgeConfig                             bin/stm32f10x_i2c.o
+I2C_CalculatePEC                                  bin/stm32f10x_i2c.o
+I2C_CheckEvent                                    bin/stm32f10x_i2c.o
+I2C_ClearFlag                                     bin/stm32f10x_i2c.o
+I2C_ClearITPendingBit                             bin/stm32f10x_i2c.o
+I2C_Cmd                                           bin/stm32f10x_i2c.o
+I2C_DMACmd                                        bin/stm32f10x_i2c.o
+I2C_DMALastTransferCmd                            bin/stm32f10x_i2c.o
+I2C_DeInit                                        bin/stm32f10x_i2c.o
+I2C_DualAddressCmd                                bin/stm32f10x_i2c.o
+I2C_FastModeDutyCycleConfig                       bin/stm32f10x_i2c.o
+I2C_GeneralCallCmd                                bin/stm32f10x_i2c.o
+I2C_GenerateSTART                                 bin/stm32f10x_i2c.o
+I2C_GenerateSTOP                                  bin/stm32f10x_i2c.o
+I2C_GetFlagStatus                                 bin/stm32f10x_i2c.o
+I2C_GetITStatus                                   bin/stm32f10x_i2c.o
+I2C_GetLastEvent                                  bin/stm32f10x_i2c.o
+I2C_GetPEC                                        bin/stm32f10x_i2c.o
+I2C_ITConfig                                      bin/stm32f10x_i2c.o
+I2C_Init                                          bin/stm32f10x_i2c.o
+I2C_NACKPositionConfig                            bin/stm32f10x_i2c.o
+I2C_OwnAddress2Config                             bin/stm32f10x_i2c.o
+I2C_PECPositionConfig                             bin/stm32f10x_i2c.o
+I2C_ReadRegister                                  bin/stm32f10x_i2c.o
+I2C_ReceiveData                                   bin/stm32f10x_i2c.o
+I2C_SMBusAlertConfig                              bin/stm32f10x_i2c.o
+I2C_Send7bitAddress                               bin/stm32f10x_i2c.o
+I2C_SendData                                      bin/stm32f10x_i2c.o
+I2C_SoftwareResetCmd                              bin/stm32f10x_i2c.o
+I2C_StretchClockCmd                               bin/stm32f10x_i2c.o
+I2C_StructInit                                    bin/stm32f10x_i2c.o
+I2C_TransmitPEC                                   bin/stm32f10x_i2c.o
+I2S_Cmd                                           bin/stm32f10x_spi.o
+I2S_Init                                          bin/stm32f10x_spi.o
+I2S_StructInit                                    bin/stm32f10x_spi.o
+IWDG_Enable                                       bin/stm32f10x_iwdg.o
+IWDG_GetFlagStatus                                bin/stm32f10x_iwdg.o
+IWDG_ReloadCounter                                bin/stm32f10x_iwdg.o
+IWDG_SetPrescaler                                 bin/stm32f10x_iwdg.o
+IWDG_SetReload                                    bin/stm32f10x_iwdg.o
+IWDG_WriteAccessCmd                               bin/stm32f10x_iwdg.o
+LED_Init                                          bin/led.o
+MemManage_Handler                                 bin/stm32f10x_it.o
+                                                  bin/CoIDE_startup.o
+NMI_Handler                                       bin/stm32f10x_it.o
+                                                  bin/CoIDE_startup.o
+NVIC_Configuration                                bin/sys.o
+NVIC_Init                                         bin/misc.o
+NVIC_PriorityGroupConfig                          bin/misc.o
+                                                  bin/sys.o
+NVIC_SetVectorTable                               bin/misc.o
+NVIC_SystemLPConfig                               bin/misc.o
+PVD_IRQHandler                                    bin/CoIDE_startup.o
+PWR_BackupAccessCmd                               bin/stm32f10x_pwr.o
+PWR_ClearFlag                                     bin/stm32f10x_pwr.o
+PWR_DeInit                                        bin/stm32f10x_pwr.o
+PWR_EnterSTANDBYMode                              bin/stm32f10x_pwr.o
+PWR_EnterSTOPMode                                 bin/stm32f10x_pwr.o
+PWR_GetFlagStatus                                 bin/stm32f10x_pwr.o
+PWR_PVDCmd                                        bin/stm32f10x_pwr.o
+PWR_PVDLevelConfig                                bin/stm32f10x_pwr.o
+PWR_WakeUpPinCmd                                  bin/stm32f10x_pwr.o
+PendSV_Handler                                    bin/stm32f10x_it.o
+                                                  bin/CoIDE_startup.o
+RCC_ADCCLKConfig                                  bin/stm32f10x_rcc.o
+RCC_AHBPeriphClockCmd                             bin/stm32f10x_rcc.o
+RCC_APB1PeriphClockCmd                            bin/stm32f10x_rcc.o
+RCC_APB1PeriphResetCmd                            bin/stm32f10x_rcc.o
+                                                  bin/stm32f10x_wwdg.o
+                                                  bin/stm32f10x_usart.o
+                                                  bin/stm32f10x_tim.o
+                                                  bin/stm32f10x_spi.o
+                                                  bin/stm32f10x_pwr.o
+                                                  bin/stm32f10x_i2c.o
+                                                  bin/stm32f10x_dac.o
+                                                  bin/stm32f10x_cec.o
+                                                  bin/stm32f10x_can.o
+RCC_APB2PeriphClockCmd                            bin/stm32f10x_rcc.o
+                                                  bin/led.o
+                                                  bin/main.o
+RCC_APB2PeriphResetCmd                            bin/stm32f10x_rcc.o
+                                                  bin/stm32f10x_usart.o
+                                                  bin/stm32f10x_tim.o
+                                                  bin/stm32f10x_spi.o
+                                                  bin/stm32f10x_gpio.o
+                                                  bin/stm32f10x_adc.o
+RCC_AdjustHSICalibrationValue                     bin/stm32f10x_rcc.o
+RCC_BackupResetCmd                                bin/stm32f10x_rcc.o
+                                                  bin/stm32f10x_bkp.o
+RCC_ClearFlag                                     bin/stm32f10x_rcc.o
+RCC_ClearITPendingBit                             bin/stm32f10x_rcc.o
+RCC_ClockSecuritySystemCmd                        bin/stm32f10x_rcc.o
+RCC_DeInit                                        bin/stm32f10x_rcc.o
+RCC_GetClocksFreq                                 bin/stm32f10x_rcc.o
+                                                  bin/stm32f10x_usart.o
+                                                  bin/stm32f10x_spi.o
+                                                  bin/stm32f10x_i2c.o
+RCC_GetFlagStatus                                 bin/stm32f10x_rcc.o
+RCC_GetITStatus                                   bin/stm32f10x_rcc.o
+RCC_GetSYSCLKSource                               bin/stm32f10x_rcc.o
+RCC_HCLKConfig                                    bin/stm32f10x_rcc.o
+RCC_HSEConfig                                     bin/stm32f10x_rcc.o
+RCC_HSICmd                                        bin/stm32f10x_rcc.o
+RCC_IRQHandler                                    bin/CoIDE_startup.o
+RCC_ITConfig                                      bin/stm32f10x_rcc.o
+RCC_LSEConfig                                     bin/stm32f10x_rcc.o
+RCC_LSICmd                                        bin/stm32f10x_rcc.o
+RCC_MCOConfig                                     bin/stm32f10x_rcc.o
+RCC_PCLK1Config                                   bin/stm32f10x_rcc.o
+RCC_PCLK2Config                                   bin/stm32f10x_rcc.o
+RCC_PLLCmd                                        bin/stm32f10x_rcc.o
+RCC_PLLConfig                                     bin/stm32f10x_rcc.o
+RCC_RTCCLKCmd                                     bin/stm32f10x_rcc.o
+RCC_RTCCLKConfig                                  bin/stm32f10x_rcc.o
+RCC_SYSCLKConfig                                  bin/stm32f10x_rcc.o
+RCC_USBCLKConfig                                  bin/stm32f10x_rcc.o
+RCC_WaitForHSEStartUp                             bin/stm32f10x_rcc.o
+RTCAlarm_IRQHandler                               bin/CoIDE_startup.o
+RTC_ClearFlag                                     bin/stm32f10x_rtc.o
+RTC_ClearITPendingBit                             bin/stm32f10x_rtc.o
+RTC_EnterConfigMode                               bin/stm32f10x_rtc.o
+RTC_ExitConfigMode                                bin/stm32f10x_rtc.o
+RTC_GetCounter                                    bin/stm32f10x_rtc.o
+RTC_GetDivider                                    bin/stm32f10x_rtc.o
+RTC_GetFlagStatus                                 bin/stm32f10x_rtc.o
+RTC_GetITStatus                                   bin/stm32f10x_rtc.o
+RTC_IRQHandler                                    bin/CoIDE_startup.o
+RTC_ITConfig                                      bin/stm32f10x_rtc.o
+RTC_SetAlarm                                      bin/stm32f10x_rtc.o
+RTC_SetCounter                                    bin/stm32f10x_rtc.o
+RTC_SetPrescaler                                  bin/stm32f10x_rtc.o
+RTC_WaitForLastTask                               bin/stm32f10x_rtc.o
+RTC_WaitForSynchro                                bin/stm32f10x_rtc.o
+Reset_Handler                                     bin/CoIDE_startup.o
+SDIO_CEATAITCmd                                   bin/stm32f10x_sdio.o
+SDIO_ClearFlag                                    bin/stm32f10x_sdio.o
+SDIO_ClearITPendingBit                            bin/stm32f10x_sdio.o
+SDIO_ClockCmd                                     bin/stm32f10x_sdio.o
+SDIO_CmdStructInit                                bin/stm32f10x_sdio.o
+SDIO_CommandCompletionCmd                         bin/stm32f10x_sdio.o
+SDIO_DMACmd                                       bin/stm32f10x_sdio.o
+SDIO_DataConfig                                   bin/stm32f10x_sdio.o
+SDIO_DataStructInit                               bin/stm32f10x_sdio.o
+SDIO_DeInit                                       bin/stm32f10x_sdio.o
+SDIO_GetCommandResponse                           bin/stm32f10x_sdio.o
+SDIO_GetDataCounter                               bin/stm32f10x_sdio.o
+SDIO_GetFIFOCount                                 bin/stm32f10x_sdio.o
+SDIO_GetFlagStatus                                bin/stm32f10x_sdio.o
+SDIO_GetITStatus                                  bin/stm32f10x_sdio.o
+SDIO_GetPowerState                                bin/stm32f10x_sdio.o
+SDIO_GetResponse                                  bin/stm32f10x_sdio.o
+SDIO_IRQHandler                                   bin/CoIDE_startup.o
+SDIO_ITConfig                                     bin/stm32f10x_sdio.o
+SDIO_Init                                         bin/stm32f10x_sdio.o
+SDIO_ReadData                                     bin/stm32f10x_sdio.o
+SDIO_SendCEATACmd                                 bin/stm32f10x_sdio.o
+SDIO_SendCommand                                  bin/stm32f10x_sdio.o
+SDIO_SendSDIOSuspendCmd                           bin/stm32f10x_sdio.o
+SDIO_SetPowerState                                bin/stm32f10x_sdio.o
+SDIO_SetSDIOOperation                             bin/stm32f10x_sdio.o
+SDIO_SetSDIOReadWaitMode                          bin/stm32f10x_sdio.o
+SDIO_StartSDIOReadWait                            bin/stm32f10x_sdio.o
+SDIO_StopSDIOReadWait                             bin/stm32f10x_sdio.o
+SDIO_StructInit                                   bin/stm32f10x_sdio.o
+SDIO_WriteData                                    bin/stm32f10x_sdio.o
+SPI1_IRQHandler                                   bin/CoIDE_startup.o
+SPI2_IRQHandler                                   bin/CoIDE_startup.o
+SPI3_IRQHandler                                   bin/CoIDE_startup.o
+SPI_BiDirectionalLineConfig                       bin/stm32f10x_spi.o
+SPI_CalculateCRC                                  bin/stm32f10x_spi.o
+SPI_Cmd                                           bin/stm32f10x_spi.o
+SPI_DataSizeConfig                                bin/stm32f10x_spi.o
+SPI_GetCRC                                        bin/stm32f10x_spi.o
+SPI_GetCRCPolynomial                              bin/stm32f10x_spi.o
+SPI_I2S_ClearFlag                                 bin/stm32f10x_spi.o
+SPI_I2S_ClearITPendingBit                         bin/stm32f10x_spi.o
+SPI_I2S_DMACmd                                    bin/stm32f10x_spi.o
+SPI_I2S_DeInit                                    bin/stm32f10x_spi.o
+SPI_I2S_GetFlagStatus                             bin/stm32f10x_spi.o
+SPI_I2S_GetITStatus                               bin/stm32f10x_spi.o
+SPI_I2S_ITConfig                                  bin/stm32f10x_spi.o
+SPI_I2S_ReceiveData                               bin/stm32f10x_spi.o
+SPI_I2S_SendData                                  bin/stm32f10x_spi.o
+SPI_Init                                          bin/stm32f10x_spi.o
+SPI_NSSInternalSoftwareConfig                     bin/stm32f10x_spi.o
+SPI_SSOutputCmd                                   bin/stm32f10x_spi.o
+SPI_StructInit                                    bin/stm32f10x_spi.o
+SPI_TransmitCRC                                   bin/stm32f10x_spi.o
+SVC_Handler                                       bin/stm32f10x_it.o
+                                                  bin/CoIDE_startup.o
+SysTick_CLKSourceConfig                           bin/misc.o
+                                                  bin/delay.o
+SysTick_Handler                                   bin/stm32f10x_it.o
+                                                  bin/CoIDE_startup.o
+SystemCoreClock                                   bin/system_stm32f10x.o
+                                                  bin/delay.o
+SystemCoreClockUpdate                             bin/system_stm32f10x.o
+SystemInit                                        bin/system_stm32f10x.o
+                                                  bin/CoIDE_startup.o
+TAMPER_IRQHandler                                 bin/CoIDE_startup.o
+TIM1_BRK_IRQHandler                               bin/CoIDE_startup.o
+TIM1_CC_IRQHandler                                bin/CoIDE_startup.o
+TIM1_TRG_COM_IRQHandler                           bin/CoIDE_startup.o
+TIM1_UP_IRQHandler                                bin/CoIDE_startup.o
+TIM2_IRQHandler                                   bin/CoIDE_startup.o
+TIM3_IRQHandler                                   bin/CoIDE_startup.o
+TIM4_IRQHandler                                   bin/CoIDE_startup.o
+TIM5_IRQHandler                                   bin/CoIDE_startup.o
+TIM6_IRQHandler                                   bin/CoIDE_startup.o
+TIM7_IRQHandler                                   bin/CoIDE_startup.o
+TIM8_BRK_IRQHandler                               bin/CoIDE_startup.o
+TIM8_CC_IRQHandler                                bin/CoIDE_startup.o
+TIM8_TRG_COM_IRQHandler                           bin/CoIDE_startup.o
+TIM8_UP_IRQHandler                                bin/CoIDE_startup.o
+TIM_ARRPreloadConfig                              bin/stm32f10x_tim.o
+TIM_BDTRConfig                                    bin/stm32f10x_tim.o
+TIM_BDTRStructInit                                bin/stm32f10x_tim.o
+TIM_CCPreloadControl                              bin/stm32f10x_tim.o
+TIM_CCxCmd                                        bin/stm32f10x_tim.o
+TIM_CCxNCmd                                       bin/stm32f10x_tim.o
+TIM_ClearFlag                                     bin/stm32f10x_tim.o
+TIM_ClearITPendingBit                             bin/stm32f10x_tim.o
+TIM_ClearOC1Ref                                   bin/stm32f10x_tim.o
+TIM_ClearOC2Ref                                   bin/stm32f10x_tim.o
+TIM_ClearOC3Ref                                   bin/stm32f10x_tim.o
+TIM_ClearOC4Ref                                   bin/stm32f10x_tim.o
+TIM_Cmd                                           bin/stm32f10x_tim.o
+TIM_CounterModeConfig                             bin/stm32f10x_tim.o
+TIM_CtrlPWMOutputs                                bin/stm32f10x_tim.o
+TIM_DMACmd                                        bin/stm32f10x_tim.o
+TIM_DMAConfig                                     bin/stm32f10x_tim.o
+TIM_DeInit                                        bin/stm32f10x_tim.o
+TIM_ETRClockMode1Config                           bin/stm32f10x_tim.o
+TIM_ETRClockMode2Config                           bin/stm32f10x_tim.o
+TIM_ETRConfig                                     bin/stm32f10x_tim.o
+TIM_EncoderInterfaceConfig                        bin/stm32f10x_tim.o
+TIM_ForcedOC1Config                               bin/stm32f10x_tim.o
+TIM_ForcedOC2Config                               bin/stm32f10x_tim.o
+TIM_ForcedOC3Config                               bin/stm32f10x_tim.o
+TIM_ForcedOC4Config                               bin/stm32f10x_tim.o
+TIM_GenerateEvent                                 bin/stm32f10x_tim.o
+TIM_GetCapture1                                   bin/stm32f10x_tim.o
+TIM_GetCapture2                                   bin/stm32f10x_tim.o
+TIM_GetCapture3                                   bin/stm32f10x_tim.o
+TIM_GetCapture4                                   bin/stm32f10x_tim.o
+TIM_GetCounter                                    bin/stm32f10x_tim.o
+TIM_GetFlagStatus                                 bin/stm32f10x_tim.o
+TIM_GetITStatus                                   bin/stm32f10x_tim.o
+TIM_GetPrescaler                                  bin/stm32f10x_tim.o
+TIM_ICInit                                        bin/stm32f10x_tim.o
+TIM_ICStructInit                                  bin/stm32f10x_tim.o
+TIM_ITConfig                                      bin/stm32f10x_tim.o
+TIM_ITRxExternalClockConfig                       bin/stm32f10x_tim.o
+TIM_InternalClockConfig                           bin/stm32f10x_tim.o
+TIM_OC1FastConfig                                 bin/stm32f10x_tim.o
+TIM_OC1Init                                       bin/stm32f10x_tim.o
+TIM_OC1NPolarityConfig                            bin/stm32f10x_tim.o
+TIM_OC1PolarityConfig                             bin/stm32f10x_tim.o
+TIM_OC1PreloadConfig                              bin/stm32f10x_tim.o
+TIM_OC2FastConfig                                 bin/stm32f10x_tim.o
+TIM_OC2Init                                       bin/stm32f10x_tim.o
+TIM_OC2NPolarityConfig                            bin/stm32f10x_tim.o
+TIM_OC2PolarityConfig                             bin/stm32f10x_tim.o
+TIM_OC2PreloadConfig                              bin/stm32f10x_tim.o
+TIM_OC3FastConfig                                 bin/stm32f10x_tim.o
+TIM_OC3Init                                       bin/stm32f10x_tim.o
+TIM_OC3NPolarityConfig                            bin/stm32f10x_tim.o
+TIM_OC3PolarityConfig                             bin/stm32f10x_tim.o
+TIM_OC3PreloadConfig                              bin/stm32f10x_tim.o
+TIM_OC4FastConfig                                 bin/stm32f10x_tim.o
+TIM_OC4Init                                       bin/stm32f10x_tim.o
+TIM_OC4PolarityConfig                             bin/stm32f10x_tim.o
+TIM_OC4PreloadConfig                              bin/stm32f10x_tim.o
+TIM_OCStructInit                                  bin/stm32f10x_tim.o
+TIM_PWMIConfig                                    bin/stm32f10x_tim.o
+TIM_PrescalerConfig                               bin/stm32f10x_tim.o
+TIM_SelectCCDMA                                   bin/stm32f10x_tim.o
+TIM_SelectCOM                                     bin/stm32f10x_tim.o
+TIM_SelectHallSensor                              bin/stm32f10x_tim.o
+TIM_SelectInputTrigger                            bin/stm32f10x_tim.o
+TIM_SelectMasterSlaveMode                         bin/stm32f10x_tim.o
+TIM_SelectOCxM                                    bin/stm32f10x_tim.o
+TIM_SelectOnePulseMode                            bin/stm32f10x_tim.o
+TIM_SelectOutputTrigger                           bin/stm32f10x_tim.o
+TIM_SelectSlaveMode                               bin/stm32f10x_tim.o
+TIM_SetAutoreload                                 bin/stm32f10x_tim.o
+TIM_SetClockDivision                              bin/stm32f10x_tim.o
+TIM_SetCompare1                                   bin/stm32f10x_tim.o
+TIM_SetCompare2                                   bin/stm32f10x_tim.o
+TIM_SetCompare3                                   bin/stm32f10x_tim.o
+TIM_SetCompare4                                   bin/stm32f10x_tim.o
+TIM_SetCounter                                    bin/stm32f10x_tim.o
+TIM_SetIC1Prescaler                               bin/stm32f10x_tim.o
+TIM_SetIC2Prescaler                               bin/stm32f10x_tim.o
+TIM_SetIC3Prescaler                               bin/stm32f10x_tim.o
+TIM_SetIC4Prescaler                               bin/stm32f10x_tim.o
+TIM_TIxExternalClockConfig                        bin/stm32f10x_tim.o
+TIM_TimeBaseInit                                  bin/stm32f10x_tim.o
+TIM_TimeBaseStructInit                            bin/stm32f10x_tim.o
+TIM_UpdateDisableConfig                           bin/stm32f10x_tim.o
+TIM_UpdateRequestConfig                           bin/stm32f10x_tim.o
+UART4_IRQHandler                                  bin/CoIDE_startup.o
+UART5_IRQHandler                                  bin/CoIDE_startup.o
+USART1_IRQHandler                                 bin/CoIDE_startup.o
+USART2_IRQHandler                                 bin/CoIDE_startup.o
+USART3_IRQHandler                                 bin/CoIDE_startup.o
+USART_ClearFlag                                   bin/stm32f10x_usart.o
+USART_ClearITPendingBit                           bin/stm32f10x_usart.o
+USART_ClockInit                                   bin/stm32f10x_usart.o
+USART_ClockStructInit                             bin/stm32f10x_usart.o
+USART_Cmd                                         bin/stm32f10x_usart.o
+USART_DMACmd                                      bin/stm32f10x_usart.o
+USART_DeInit                                      bin/stm32f10x_usart.o
+USART_GetFlagStatus                               bin/stm32f10x_usart.o
+USART_GetITStatus                                 bin/stm32f10x_usart.o
+USART_HalfDuplexCmd                               bin/stm32f10x_usart.o
+USART_ITConfig                                    bin/stm32f10x_usart.o
+USART_Init                                        bin/stm32f10x_usart.o
+USART_IrDACmd                                     bin/stm32f10x_usart.o
+USART_IrDAConfig                                  bin/stm32f10x_usart.o
+USART_LINBreakDetectLengthConfig                  bin/stm32f10x_usart.o
+USART_LINCmd                                      bin/stm32f10x_usart.o
+USART_OneBitMethodCmd                             bin/stm32f10x_usart.o
+USART_OverSampling8Cmd                            bin/stm32f10x_usart.o
+USART_ReceiveData                                 bin/stm32f10x_usart.o
+USART_ReceiverWakeUpCmd                           bin/stm32f10x_usart.o
+USART_SendBreak                                   bin/stm32f10x_usart.o
+USART_SendData                                    bin/stm32f10x_usart.o
+USART_SetAddress                                  bin/stm32f10x_usart.o
+USART_SetGuardTime                                bin/stm32f10x_usart.o
+USART_SetPrescaler                                bin/stm32f10x_usart.o
+USART_SmartCardCmd                                bin/stm32f10x_usart.o
+USART_SmartCardNACKCmd                            bin/stm32f10x_usart.o
+USART_StructInit                                  bin/stm32f10x_usart.o
+USART_WakeUpConfig                                bin/stm32f10x_usart.o
+USBWakeUp_IRQHandler                              bin/CoIDE_startup.o
+USB_HP_CAN1_TX_IRQHandler                         bin/CoIDE_startup.o
+USB_LP_CAN1_RX0_IRQHandler                        bin/CoIDE_startup.o
+UsageFault_Handler                                bin/stm32f10x_it.o
+                                                  bin/CoIDE_startup.o
+WWDG_ClearFlag                                    bin/stm32f10x_wwdg.o
+WWDG_DeInit                                       bin/stm32f10x_wwdg.o
+WWDG_Enable                                       bin/stm32f10x_wwdg.o
+WWDG_EnableIT                                     bin/stm32f10x_wwdg.o
+WWDG_GetFlagStatus                                bin/stm32f10x_wwdg.o
+WWDG_IRQHandler                                   bin/CoIDE_startup.o
+WWDG_SetCounter                                   bin/stm32f10x_wwdg.o
+WWDG_SetPrescaler                                 bin/stm32f10x_wwdg.o
+WWDG_SetWindowValue                               bin/stm32f10x_wwdg.o
+__bss_end__                                       e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+__bss_start__                                     e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+__call_exitprocs                                  e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o)
+__deregister_frame_info                           e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+__dso_handle                                      e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+__init_array_end                                  e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
+__init_array_start                                e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
+__libc_fini_array                                 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+__libc_init_array                                 e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
+                                                  e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+__preinit_array_end                               e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
+__preinit_array_start                             e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
+__register_frame_info                             e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+__sf_fake_stderr                                  e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+__sf_fake_stdin                                   e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+__sf_fake_stdout                                  e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+__stack                                           e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+_ebss                                             bin/CoIDE_startup.o
+_edata                                            bin/CoIDE_startup.o
+_exit                                             e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a(_exit.o)
+                                                  e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o)
+_fini                                             e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+_global_impure_ptr                                e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+                                                  e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o)
+_impure_ptr                                       e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+_init                                             e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+                                                  e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
+_mainCRTStartup                                   e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+_sbss                                             bin/CoIDE_startup.o
+_sdata                                            bin/CoIDE_startup.o
+_sidata                                           bin/CoIDE_startup.o
+_start                                            e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+atexit                                            e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+delay_init                                        bin/delay.o
+                                                  bin/main.o
+delay_ms                                          bin/delay.o
+                                                  bin/main.o
+delay_us                                          bin/delay.o
+exit                                              e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o)
+                                                  e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+g_pfnVectors                                      bin/CoIDE_startup.o
+hardware_init_hook                                e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+main                                              bin/main.o
+                                                  bin/CoIDE_startup.o
+                                                  e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+memset                                            e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memset.o)
+                                                  e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+pulStack                                          bin/CoIDE_startup.o
+software_init_hook                                e:/tool&softpack&drive/cygwin/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
